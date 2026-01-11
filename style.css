@@ -1,0 +1,49 @@
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #EAE0CF;
+}
+
+body {
+    background-color: #213448;
+}
+
+h1 {
+    color: #e9bfb7;
+    margin: 40px;
+    background-color: #547792;
+}
+
+h2 {
+    margin-left: 20px;
+    color: #94B4C1;
+}
+
+p.description {
+    margin-left: 70px;
+}
+
+.recipe-list {
+    align-self: center;
+}
+
+ul {
+    list-style: none;
+    margin-left: 30px;
+}
+
+ol {
+    margin-left: 50px;
+}
+
+li {
+    margin: 8px auto;
+}
+
+a {
+    text-decoration: none;
+    color: #EAE0CF;
+}
+
+a:visited {
+    color: #EAE0CF;
+}
